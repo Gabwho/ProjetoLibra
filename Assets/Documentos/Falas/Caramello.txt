@@ -1,0 +1,4 @@
+00 Meu Deus! Você está bem? O que aconteceu?! \n
+01 Ola! \n
+02 Olha só a Montanha Pico! \n
+03 O que são essas partes escuras no mapa?

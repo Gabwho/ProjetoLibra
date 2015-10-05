@@ -1,0 +1,35 @@
+00 PrimeiroDialogoElvira \n
+01 Capturado? Navio?! Mas de onde você veio? \n
+02 Calma, você está em um lugar seguro. Meu nome é Elvira, e ela é minha irmã, Caramello. \n
+03 Naufragamos aqui também há alguns anos, e os nativos dessa ilha nos acolheram. Eles não falam nossa língua, mas nos ajudaram. A mulher que te ajudou se chama Jade, ela cresceu conosco e nos ensinou tudo o que podia. Ela faz de tudo para proteger essa ilha. Mas então, quem é você? \n
+04 Oh, é nossa ilha! \n
+05 Como alguém conseguiu desenhar isso? \n
+06 Não temos muitos visitantes por aqui... \n
+07 Por quê estão circuladas? \n
+08 Algumas poucas vezes navios encalham por aqui, com homens maus a procura de ouro. Talvez seja um mapa do tesouro! \n
+09 Fique tranquilo! Até lá nós te ajudamos. \n
+10 PerguntaEntradaMinigame \n
+11 Acha que consegue se comunicar com aquele rapaz? \n
+12 AceitaMinigame1 \n
+13 OK, então vamos te ajudar. Vamos te ensinar algumas frases básicas para que você saiba se comunicar em nossa língua. \n
+14 Eu vou gesticular algumas frases com a tradução em português, e você tenta decorar. Depois farei os gestos novamente, e preciso que você me diga o que significa! É fácil! Vamos lá. \n
+15 FalasMinigamePerguntas \n
+16 Você lembra do significado dessa frase? \n
+17 E dessa? \n
+18 Vamos lá, essa é a última. \n
+19 FalasMinigameRespostas \n
+20 Muito bem! \n
+21 Isso! \n
+22 Boa! \n
+23 AposMinigame1 \n
+24 Legal! Agora que você sabe algumas frases em nossa língua você pode começar a falar com os nossos amigos. Você encontrará mais frases desconhecidas pelo seu caminho. Para isso, estou te dando um diário. Nele você pode fazer as anotações do que você ainda não conhece, para que você possa trazer para mim para descobrir seus significados, e consultar quando quiser. Vamos estar sempre aqui para te ajudar! \n
+25 AposRecusaMinigame1 \n
+26 OK, mas de qualquer forma estou te dando um diário. Nele você pode fazer as anotações do que você ainda não conhece, para que você possa trazer para mim para descobrir seus significados, e consultar quando quiser. Vamos estar sempre aqui para te ajudar! \n
+27 Save1 \n
+28 Vejo que você está cansado. Venha, vou te arranjar aquela barraca para você passar a noite. \n
+29 PerguntaAjuda \n
+30 Oi! Você tem frases anotadas que deseja aprender os significados? \n
+31 AceitaPerguntaAjuda \n
+32 Ótimo, então vamos começar!
+33 RecusaPerguntaAjuda
+34 Volte quando quiser, estarei aqui a sua disposição!

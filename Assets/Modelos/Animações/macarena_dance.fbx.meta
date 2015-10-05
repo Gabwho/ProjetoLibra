@@ -1,0 +1,2006 @@
+fileFormatVersion: 2
+guid: 169f9f93f302f294d916e314af5053e7
+timeCreated: 1442615663
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: caram_head:jade_body:hand:group
+    100002: caram_head:jade_body:hand:group1
+    100004: caram_head:jade_body:hand:group2
+    100006: caram_head:jade_body:hand:group3
+    100008: caram_head:jade_body:hand:group4
+    100010: caram_head:jade_body:hand:pasted__group
+    100012: caram_head:jade_body:hand:pasted__pCube2
+    100014: caram_head:jade_body:hand:pasted__pCube21
+    100016: caram_head:jade_body:hand:pasted__pCube22
+    100018: caram_head:jade_body:hand:pCube1
+    100020: caram_head:jade_body:hand:pCube2
+    100022: caram_head:jade_body:hand:polySurface1
+    100024: caram_head:jade_body:hand:transform1
+    100026: caram_head:jade_body:hand:transform2
+    100028: caram_head:jade_body:hand:transform3
+    100030: caram_head:jade_body:hand:transform4
+    100032: caram_head:jade_body:hand:transform5
+    100034: caram_head:jade_body:jade_head_2_1:group
+    100036: caram_head:jade_body:jade_head_2_1:pCube1
+    100038: caram_head:jade_body:jade_head_2_1:pCube2
+    100040: caram_head:jade_body:jade_head_2_1:polySurface1
+    100042: caram_head:jade_body:jade_head_2_1:polySurface2
+    100044: caram_head:jade_body:jade_head_2_1:polySurface3
+    100046: caram_head:jade_body:jade_head_2_1:polySurface4
+    100048: caram_head:jade_body:jade_head_2_1:polySurface5
+    100050: caram_head:jade_body:jade_head_2_1:pPlane1
+    100052: caram_head:jade_body:jade_head_2_1:pPlane2
+    100054: caram_head:jade_body:jade_head_2_1:pPlane3
+    100056: caram_head:jade_body:jade_head_2_1:pPlane4
+    100058: caram_head:jade_body:jade_head_2_1:pSphere1
+    100060: caram_head:jade_body:jade_head_2_1:pSphere2
+    100062: caram_head:jade_body:jade_head_2_1:transform1
+    100064: caram_head:jade_body:jade_head_2_1:transform2
+    100066: caram_head:jade_body:jade_head_2_1:transform3
+    100068: caram_head:jade_body:jade_head_2_1:transform4
+    100070: caram_head:jade_body:jade_head_2_1:transform5
+    100072: caram_head:jade_body:jade_head_2_1:transform6
+    100074: caram_head:jade_body:jade_head_2_1:transform7
+    100076: caram_head:jade_body:jade_head_2_1:transform8
+    100078: caram_head:jade_body:pCube1
+    100080: caram_head:jade_body:pCube2
+    100082: caram_head:jade_body:polySurface1
+    100084: caram_head:jade_body:polySurface2
+    100086: caram_head:jade_body:polySurface3
+    100088: caram_head:jade_body:polySurface4
+    100090: caram_head:jade_body:pPlane1
+    100092: caram_head:jade_body:pPlane2
+    100094: caram_head:jade_body:transform1
+    100096: caram_head:jade_body:transform10
+    100098: caram_head:jade_body:transform11
+    100100: caram_head:jade_body:transform2
+    100102: caram_head:jade_body:transform3
+    100104: caram_head:jade_body:transform4
+    100106: caram_head:jade_body:transform5
+    100108: caram_head:jade_body:transform6
+    100110: caram_head:jade_body:transform7
+    100112: caram_head:jade_body:transform8
+    100114: caram_head:jade_body:transform9
+    100116: caram_head:npcgirl_full:jade_body:hand:group
+    100118: caram_head:npcgirl_full:jade_body:hand:group1
+    100120: caram_head:npcgirl_full:jade_body:hand:group2
+    100122: caram_head:npcgirl_full:jade_body:hand:group3
+    100124: caram_head:npcgirl_full:jade_body:hand:group4
+    100126: caram_head:npcgirl_full:jade_body:hand:pasted__group
+    100128: caram_head:npcgirl_full:jade_body:hand:pasted__pCube2
+    100130: caram_head:npcgirl_full:jade_body:hand:pasted__pCube21
+    100132: caram_head:npcgirl_full:jade_body:hand:pasted__pCube22
+    100134: caram_head:npcgirl_full:jade_body:hand:pCube1
+    100136: caram_head:npcgirl_full:jade_body:hand:pCube2
+    100138: caram_head:npcgirl_full:jade_body:hand:polySurface1
+    100140: caram_head:npcgirl_full:jade_body:hand:transform1
+    100142: caram_head:npcgirl_full:jade_body:hand:transform2
+    100144: caram_head:npcgirl_full:jade_body:hand:transform3
+    100146: caram_head:npcgirl_full:jade_body:hand:transform4
+    100148: caram_head:npcgirl_full:jade_body:hand:transform5
+    100150: caram_head:npcgirl_full:jade_body:jade_head_2_1:group
+    100152: caram_head:npcgirl_full:jade_body:jade_head_2_1:pCube1
+    100154: caram_head:npcgirl_full:jade_body:jade_head_2_1:pCube2
+    100156: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface1
+    100158: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface2
+    100160: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface3
+    100162: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface4
+    100164: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface5
+    100166: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane1
+    100168: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane2
+    100170: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane3
+    100172: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane4
+    100174: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere1
+    100176: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere2
+    100178: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform1
+    100180: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform2
+    100182: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform3
+    100184: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform4
+    100186: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform5
+    100188: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform6
+    100190: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform7
+    100192: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform8
+    100194: caram_head:npcgirl_full:jade_body:pCube1
+    100196: caram_head:npcgirl_full:jade_body:pCube2
+    100198: caram_head:npcgirl_full:jade_body:polySurface1
+    100200: caram_head:npcgirl_full:jade_body:polySurface2
+    100202: caram_head:npcgirl_full:jade_body:polySurface3
+    100204: caram_head:npcgirl_full:jade_body:polySurface4
+    100206: caram_head:npcgirl_full:jade_body:pPlane1
+    100208: caram_head:npcgirl_full:jade_body:pPlane2
+    100210: caram_head:npcgirl_full:jade_body:transform1
+    100212: caram_head:npcgirl_full:jade_body:transform10
+    100214: caram_head:npcgirl_full:jade_body:transform11
+    100216: caram_head:npcgirl_full:jade_body:transform2
+    100218: caram_head:npcgirl_full:jade_body:transform3
+    100220: caram_head:npcgirl_full:jade_body:transform4
+    100222: caram_head:npcgirl_full:jade_body:transform5
+    100224: caram_head:npcgirl_full:jade_body:transform6
+    100226: caram_head:npcgirl_full:jade_body:transform7
+    100228: caram_head:npcgirl_full:jade_body:transform8
+    100230: caram_head:npcgirl_full:jade_body:transform9
+    100232: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:group
+    100234: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pCube1
+    100236: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pCube2
+    100238: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface1
+    100240: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface2
+    100242: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface3
+    100244: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface5
+    100246: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pPlane3
+    100248: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pPlane4
+    100250: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere1
+    100252: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere2
+    100254: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform1
+    100256: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform2
+    100258: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform3
+    100260: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform4
+    100262: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform5
+    100264: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform6
+    100266: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform7
+    100268: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform8
+    100270: caram_head:npcgirl_full:npcgirl_head:pCube1
+    100272: caram_head:npcgirl_full:npcgirl_head:pCube2
+    100274: caram_head:npcgirl_full:npcgirl_head:polySurface1
+    100276: caram_head:npcgirl_full:npcgirl_head:polySurface2
+    100278: caram_head:npcgirl_full:npcgirl_head:polySurface3
+    100280: caram_head:npcgirl_full:npcgirl_head:polySurface4
+    100282: caram_head:npcgirl_full:npcgirl_head:pSphere1
+    100284: caram_head:npcgirl_full:npcgirl_head:transform1
+    100286: caram_head:npcgirl_full:npcgirl_head:transform2
+    100288: caram_head:npcgirl_full:npcgirl_head:transform3
+    100290: caram_head:npcgirl_full:npcgirl_head:transform4
+    100292: caram_head:npcgirl_full:npcgirl_head:transform5
+    100294: caram_head:npcgirl_full:npcgirl_head:transform6
+    100296: caram_head:npcgirl_full:polySurface1
+    100298: caram_head:npcgirl_full:polySurface2
+    100300: caram_head:npcgirl_full:polySurface3
+    100302: caram_head:npcgirl_full:transform1
+    100304: caram_head:npcgirl_full:transform2
+    100306: caram_head:npcgirl_full:transform3
+    100308: caram_head:npcgirl_full:transform4
+    100310: caram_head:npcgirl_full:transform5
+    100312: caram_head:npcgirl_full:transform6
+    100314: caram_head:pCube1
+    100316: caram_head:pCube2
+    100318: caram_head:pCube3
+    100320: caram_head:polySurface1
+    100322: caram_head:polySurface2
+    100324: caram_head:polySurface3
+    100326: caram_head:polySurface4
+    100328: caram_head:polySurface5
+    100330: caram_head:transform1
+    100332: caram_head:transform2
+    100334: caram_head:transform3
+    100336: caram_head:transform4
+    100338: caram_head:transform5
+    100340: caram_head:transform6
+    100342: caram_head:transform7
+    100344: caram_head:transform8
+    100346: //RootNode
+    100348: mixamorig:Head
+    100350: mixamorig:HeadTop_End
+    100352: mixamorig:Hips
+    100354: mixamorig:LeftArm
+    100356: mixamorig:LeftFoot
+    100358: mixamorig:LeftForeArm
+    100360: mixamorig:LeftHand
+    100362: mixamorig:LeftHandIndex1
+    100364: mixamorig:LeftHandIndex2
+    100366: mixamorig:LeftHandIndex3
+    100368: mixamorig:LeftHandIndex4
+    100370: mixamorig:LeftHandMiddle1
+    100372: mixamorig:LeftHandMiddle2
+    100374: mixamorig:LeftHandMiddle3
+    100376: mixamorig:LeftHandMiddle4
+    100378: mixamorig:LeftHandPinky1
+    100380: mixamorig:LeftHandPinky2
+    100382: mixamorig:LeftHandPinky3
+    100384: mixamorig:LeftHandPinky4
+    100386: mixamorig:LeftHandRing1
+    100388: mixamorig:LeftHandRing2
+    100390: mixamorig:LeftHandRing3
+    100392: mixamorig:LeftHandRing4
+    100394: mixamorig:LeftHandThumb1
+    100396: mixamorig:LeftHandThumb2
+    100398: mixamorig:LeftHandThumb3
+    100400: mixamorig:LeftHandThumb4
+    100402: mixamorig:LeftLeg
+    100404: mixamorig:LeftShoulder
+    100406: mixamorig:LeftToe_End
+    100408: mixamorig:LeftToeBase
+    100410: mixamorig:LeftUpLeg
+    100412: mixamorig:Neck
+    100414: mixamorig:RightArm
+    100416: mixamorig:RightFoot
+    100418: mixamorig:RightForeArm
+    100420: mixamorig:RightHand
+    100422: mixamorig:RightHandIndex1
+    100424: mixamorig:RightHandIndex2
+    100426: mixamorig:RightHandIndex3
+    100428: mixamorig:RightHandIndex4
+    100430: mixamorig:RightHandMiddle1
+    100432: mixamorig:RightHandMiddle2
+    100434: mixamorig:RightHandMiddle3
+    100436: mixamorig:RightHandMiddle4
+    100438: mixamorig:RightHandPinky1
+    100440: mixamorig:RightHandPinky2
+    100442: mixamorig:RightHandPinky3
+    100444: mixamorig:RightHandPinky4
+    100446: mixamorig:RightHandRing1
+    100448: mixamorig:RightHandRing2
+    100450: mixamorig:RightHandRing3
+    100452: mixamorig:RightHandRing4
+    100454: mixamorig:RightHandThumb1
+    100456: mixamorig:RightHandThumb2
+    100458: mixamorig:RightHandThumb3
+    100460: mixamorig:RightHandThumb4
+    100462: mixamorig:RightLeg
+    100464: mixamorig:RightShoulder
+    100466: mixamorig:RightToe_End
+    100468: mixamorig:RightToeBase
+    100470: mixamorig:RightUpLeg
+    100472: mixamorig:Spine
+    100474: mixamorig:Spine1
+    100476: mixamorig:Spine2
+    400000: caram_head:jade_body:hand:group
+    400002: caram_head:jade_body:hand:group1
+    400004: caram_head:jade_body:hand:group2
+    400006: caram_head:jade_body:hand:group3
+    400008: caram_head:jade_body:hand:group4
+    400010: caram_head:jade_body:hand:pasted__group
+    400012: caram_head:jade_body:hand:pasted__pCube2
+    400014: caram_head:jade_body:hand:pasted__pCube21
+    400016: caram_head:jade_body:hand:pasted__pCube22
+    400018: caram_head:jade_body:hand:pCube1
+    400020: caram_head:jade_body:hand:pCube2
+    400022: caram_head:jade_body:hand:polySurface1
+    400024: caram_head:jade_body:hand:transform1
+    400026: caram_head:jade_body:hand:transform2
+    400028: caram_head:jade_body:hand:transform3
+    400030: caram_head:jade_body:hand:transform4
+    400032: caram_head:jade_body:hand:transform5
+    400034: caram_head:jade_body:jade_head_2_1:group
+    400036: caram_head:jade_body:jade_head_2_1:pCube1
+    400038: caram_head:jade_body:jade_head_2_1:pCube2
+    400040: caram_head:jade_body:jade_head_2_1:polySurface1
+    400042: caram_head:jade_body:jade_head_2_1:polySurface2
+    400044: caram_head:jade_body:jade_head_2_1:polySurface3
+    400046: caram_head:jade_body:jade_head_2_1:polySurface4
+    400048: caram_head:jade_body:jade_head_2_1:polySurface5
+    400050: caram_head:jade_body:jade_head_2_1:pPlane1
+    400052: caram_head:jade_body:jade_head_2_1:pPlane2
+    400054: caram_head:jade_body:jade_head_2_1:pPlane3
+    400056: caram_head:jade_body:jade_head_2_1:pPlane4
+    400058: caram_head:jade_body:jade_head_2_1:pSphere1
+    400060: caram_head:jade_body:jade_head_2_1:pSphere2
+    400062: caram_head:jade_body:jade_head_2_1:transform1
+    400064: caram_head:jade_body:jade_head_2_1:transform2
+    400066: caram_head:jade_body:jade_head_2_1:transform3
+    400068: caram_head:jade_body:jade_head_2_1:transform4
+    400070: caram_head:jade_body:jade_head_2_1:transform5
+    400072: caram_head:jade_body:jade_head_2_1:transform6
+    400074: caram_head:jade_body:jade_head_2_1:transform7
+    400076: caram_head:jade_body:jade_head_2_1:transform8
+    400078: caram_head:jade_body:pCube1
+    400080: caram_head:jade_body:pCube2
+    400082: caram_head:jade_body:polySurface1
+    400084: caram_head:jade_body:polySurface2
+    400086: caram_head:jade_body:polySurface3
+    400088: caram_head:jade_body:polySurface4
+    400090: caram_head:jade_body:pPlane1
+    400092: caram_head:jade_body:pPlane2
+    400094: caram_head:jade_body:transform1
+    400096: caram_head:jade_body:transform10
+    400098: caram_head:jade_body:transform11
+    400100: caram_head:jade_body:transform2
+    400102: caram_head:jade_body:transform3
+    400104: caram_head:jade_body:transform4
+    400106: caram_head:jade_body:transform5
+    400108: caram_head:jade_body:transform6
+    400110: caram_head:jade_body:transform7
+    400112: caram_head:jade_body:transform8
+    400114: caram_head:jade_body:transform9
+    400116: caram_head:npcgirl_full:jade_body:hand:group
+    400118: caram_head:npcgirl_full:jade_body:hand:group1
+    400120: caram_head:npcgirl_full:jade_body:hand:group2
+    400122: caram_head:npcgirl_full:jade_body:hand:group3
+    400124: caram_head:npcgirl_full:jade_body:hand:group4
+    400126: caram_head:npcgirl_full:jade_body:hand:pasted__group
+    400128: caram_head:npcgirl_full:jade_body:hand:pasted__pCube2
+    400130: caram_head:npcgirl_full:jade_body:hand:pasted__pCube21
+    400132: caram_head:npcgirl_full:jade_body:hand:pasted__pCube22
+    400134: caram_head:npcgirl_full:jade_body:hand:pCube1
+    400136: caram_head:npcgirl_full:jade_body:hand:pCube2
+    400138: caram_head:npcgirl_full:jade_body:hand:polySurface1
+    400140: caram_head:npcgirl_full:jade_body:hand:transform1
+    400142: caram_head:npcgirl_full:jade_body:hand:transform2
+    400144: caram_head:npcgirl_full:jade_body:hand:transform3
+    400146: caram_head:npcgirl_full:jade_body:hand:transform4
+    400148: caram_head:npcgirl_full:jade_body:hand:transform5
+    400150: caram_head:npcgirl_full:jade_body:jade_head_2_1:group
+    400152: caram_head:npcgirl_full:jade_body:jade_head_2_1:pCube1
+    400154: caram_head:npcgirl_full:jade_body:jade_head_2_1:pCube2
+    400156: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface1
+    400158: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface2
+    400160: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface3
+    400162: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface4
+    400164: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface5
+    400166: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane1
+    400168: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane2
+    400170: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane3
+    400172: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane4
+    400174: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere1
+    400176: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere2
+    400178: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform1
+    400180: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform2
+    400182: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform3
+    400184: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform4
+    400186: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform5
+    400188: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform6
+    400190: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform7
+    400192: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform8
+    400194: caram_head:npcgirl_full:jade_body:pCube1
+    400196: caram_head:npcgirl_full:jade_body:pCube2
+    400198: caram_head:npcgirl_full:jade_body:polySurface1
+    400200: caram_head:npcgirl_full:jade_body:polySurface2
+    400202: caram_head:npcgirl_full:jade_body:polySurface3
+    400204: caram_head:npcgirl_full:jade_body:polySurface4
+    400206: caram_head:npcgirl_full:jade_body:pPlane1
+    400208: caram_head:npcgirl_full:jade_body:pPlane2
+    400210: caram_head:npcgirl_full:jade_body:transform1
+    400212: caram_head:npcgirl_full:jade_body:transform10
+    400214: caram_head:npcgirl_full:jade_body:transform11
+    400216: caram_head:npcgirl_full:jade_body:transform2
+    400218: caram_head:npcgirl_full:jade_body:transform3
+    400220: caram_head:npcgirl_full:jade_body:transform4
+    400222: caram_head:npcgirl_full:jade_body:transform5
+    400224: caram_head:npcgirl_full:jade_body:transform6
+    400226: caram_head:npcgirl_full:jade_body:transform7
+    400228: caram_head:npcgirl_full:jade_body:transform8
+    400230: caram_head:npcgirl_full:jade_body:transform9
+    400232: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:group
+    400234: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pCube1
+    400236: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pCube2
+    400238: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface1
+    400240: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface2
+    400242: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface3
+    400244: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface5
+    400246: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pPlane3
+    400248: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pPlane4
+    400250: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere1
+    400252: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere2
+    400254: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform1
+    400256: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform2
+    400258: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform3
+    400260: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform4
+    400262: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform5
+    400264: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform6
+    400266: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform7
+    400268: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform8
+    400270: caram_head:npcgirl_full:npcgirl_head:pCube1
+    400272: caram_head:npcgirl_full:npcgirl_head:pCube2
+    400274: caram_head:npcgirl_full:npcgirl_head:polySurface1
+    400276: caram_head:npcgirl_full:npcgirl_head:polySurface2
+    400278: caram_head:npcgirl_full:npcgirl_head:polySurface3
+    400280: caram_head:npcgirl_full:npcgirl_head:polySurface4
+    400282: caram_head:npcgirl_full:npcgirl_head:pSphere1
+    400284: caram_head:npcgirl_full:npcgirl_head:transform1
+    400286: caram_head:npcgirl_full:npcgirl_head:transform2
+    400288: caram_head:npcgirl_full:npcgirl_head:transform3
+    400290: caram_head:npcgirl_full:npcgirl_head:transform4
+    400292: caram_head:npcgirl_full:npcgirl_head:transform5
+    400294: caram_head:npcgirl_full:npcgirl_head:transform6
+    400296: caram_head:npcgirl_full:polySurface1
+    400298: caram_head:npcgirl_full:polySurface2
+    400300: caram_head:npcgirl_full:polySurface3
+    400302: caram_head:npcgirl_full:transform1
+    400304: caram_head:npcgirl_full:transform2
+    400306: caram_head:npcgirl_full:transform3
+    400308: caram_head:npcgirl_full:transform4
+    400310: caram_head:npcgirl_full:transform5
+    400312: caram_head:npcgirl_full:transform6
+    400314: caram_head:pCube1
+    400316: caram_head:pCube2
+    400318: caram_head:pCube3
+    400320: caram_head:polySurface1
+    400322: caram_head:polySurface2
+    400324: caram_head:polySurface3
+    400326: caram_head:polySurface4
+    400328: caram_head:polySurface5
+    400330: caram_head:transform1
+    400332: caram_head:transform2
+    400334: caram_head:transform3
+    400336: caram_head:transform4
+    400338: caram_head:transform5
+    400340: caram_head:transform6
+    400342: caram_head:transform7
+    400344: caram_head:transform8
+    400346: //RootNode
+    400348: mixamorig:Head
+    400350: mixamorig:HeadTop_End
+    400352: mixamorig:Hips
+    400354: mixamorig:LeftArm
+    400356: mixamorig:LeftFoot
+    400358: mixamorig:LeftForeArm
+    400360: mixamorig:LeftHand
+    400362: mixamorig:LeftHandIndex1
+    400364: mixamorig:LeftHandIndex2
+    400366: mixamorig:LeftHandIndex3
+    400368: mixamorig:LeftHandIndex4
+    400370: mixamorig:LeftHandMiddle1
+    400372: mixamorig:LeftHandMiddle2
+    400374: mixamorig:LeftHandMiddle3
+    400376: mixamorig:LeftHandMiddle4
+    400378: mixamorig:LeftHandPinky1
+    400380: mixamorig:LeftHandPinky2
+    400382: mixamorig:LeftHandPinky3
+    400384: mixamorig:LeftHandPinky4
+    400386: mixamorig:LeftHandRing1
+    400388: mixamorig:LeftHandRing2
+    400390: mixamorig:LeftHandRing3
+    400392: mixamorig:LeftHandRing4
+    400394: mixamorig:LeftHandThumb1
+    400396: mixamorig:LeftHandThumb2
+    400398: mixamorig:LeftHandThumb3
+    400400: mixamorig:LeftHandThumb4
+    400402: mixamorig:LeftLeg
+    400404: mixamorig:LeftShoulder
+    400406: mixamorig:LeftToe_End
+    400408: mixamorig:LeftToeBase
+    400410: mixamorig:LeftUpLeg
+    400412: mixamorig:Neck
+    400414: mixamorig:RightArm
+    400416: mixamorig:RightFoot
+    400418: mixamorig:RightForeArm
+    400420: mixamorig:RightHand
+    400422: mixamorig:RightHandIndex1
+    400424: mixamorig:RightHandIndex2
+    400426: mixamorig:RightHandIndex3
+    400428: mixamorig:RightHandIndex4
+    400430: mixamorig:RightHandMiddle1
+    400432: mixamorig:RightHandMiddle2
+    400434: mixamorig:RightHandMiddle3
+    400436: mixamorig:RightHandMiddle4
+    400438: mixamorig:RightHandPinky1
+    400440: mixamorig:RightHandPinky2
+    400442: mixamorig:RightHandPinky3
+    400444: mixamorig:RightHandPinky4
+    400446: mixamorig:RightHandRing1
+    400448: mixamorig:RightHandRing2
+    400450: mixamorig:RightHandRing3
+    400452: mixamorig:RightHandRing4
+    400454: mixamorig:RightHandThumb1
+    400456: mixamorig:RightHandThumb2
+    400458: mixamorig:RightHandThumb3
+    400460: mixamorig:RightHandThumb4
+    400462: mixamorig:RightLeg
+    400464: mixamorig:RightShoulder
+    400466: mixamorig:RightToe_End
+    400468: mixamorig:RightToeBase
+    400470: mixamorig:RightUpLeg
+    400472: mixamorig:Spine
+    400474: mixamorig:Spine1
+    400476: mixamorig:Spine2
+    2300000: caram_head:jade_body:hand:transform1
+    2300002: caram_head:jade_body:hand:transform2
+    2300004: caram_head:jade_body:hand:transform3
+    2300006: caram_head:jade_body:hand:transform4
+    2300008: caram_head:jade_body:hand:transform5
+    2300010: caram_head:jade_body:jade_head_2_1:pSphere2
+    2300012: caram_head:jade_body:jade_head_2_1:transform1
+    2300014: caram_head:jade_body:jade_head_2_1:transform2
+    2300016: caram_head:jade_body:jade_head_2_1:transform3
+    2300018: caram_head:jade_body:jade_head_2_1:transform4
+    2300020: caram_head:jade_body:jade_head_2_1:transform5
+    2300022: caram_head:jade_body:jade_head_2_1:transform6
+    2300024: caram_head:jade_body:jade_head_2_1:transform7
+    2300026: caram_head:jade_body:jade_head_2_1:transform8
+    2300028: caram_head:jade_body:pCube2
+    2300030: caram_head:jade_body:transform1
+    2300032: caram_head:jade_body:transform10
+    2300034: caram_head:jade_body:transform11
+    2300036: caram_head:jade_body:transform2
+    2300038: caram_head:jade_body:transform3
+    2300040: caram_head:jade_body:transform4
+    2300042: caram_head:jade_body:transform5
+    2300044: caram_head:jade_body:transform6
+    2300046: caram_head:jade_body:transform7
+    2300048: caram_head:jade_body:transform8
+    2300050: caram_head:jade_body:transform9
+    2300052: caram_head:npcgirl_full:jade_body:hand:transform1
+    2300054: caram_head:npcgirl_full:jade_body:hand:transform2
+    2300056: caram_head:npcgirl_full:jade_body:hand:transform3
+    2300058: caram_head:npcgirl_full:jade_body:hand:transform4
+    2300060: caram_head:npcgirl_full:jade_body:hand:transform5
+    2300062: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere2
+    2300064: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform1
+    2300066: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform2
+    2300068: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform3
+    2300070: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform4
+    2300072: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform5
+    2300074: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform6
+    2300076: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform7
+    2300078: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform8
+    2300080: caram_head:npcgirl_full:jade_body:pCube2
+    2300082: caram_head:npcgirl_full:jade_body:transform1
+    2300084: caram_head:npcgirl_full:jade_body:transform10
+    2300086: caram_head:npcgirl_full:jade_body:transform11
+    2300088: caram_head:npcgirl_full:jade_body:transform2
+    2300090: caram_head:npcgirl_full:jade_body:transform3
+    2300092: caram_head:npcgirl_full:jade_body:transform4
+    2300094: caram_head:npcgirl_full:jade_body:transform5
+    2300096: caram_head:npcgirl_full:jade_body:transform6
+    2300098: caram_head:npcgirl_full:jade_body:transform7
+    2300100: caram_head:npcgirl_full:jade_body:transform8
+    2300102: caram_head:npcgirl_full:jade_body:transform9
+    2300104: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere2
+    2300106: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform1
+    2300108: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform2
+    2300110: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform3
+    2300112: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform4
+    2300114: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform5
+    2300116: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform6
+    2300118: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform7
+    2300120: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform8
+    2300122: caram_head:npcgirl_full:npcgirl_head:transform1
+    2300124: caram_head:npcgirl_full:npcgirl_head:transform2
+    2300126: caram_head:npcgirl_full:npcgirl_head:transform3
+    2300128: caram_head:npcgirl_full:npcgirl_head:transform4
+    2300130: caram_head:npcgirl_full:npcgirl_head:transform5
+    2300132: caram_head:npcgirl_full:npcgirl_head:transform6
+    2300134: caram_head:npcgirl_full:transform1
+    2300136: caram_head:npcgirl_full:transform2
+    2300138: caram_head:npcgirl_full:transform3
+    2300140: caram_head:npcgirl_full:transform4
+    2300142: caram_head:npcgirl_full:transform5
+    2300144: caram_head:npcgirl_full:transform6
+    2300146: caram_head:pCube3
+    2300148: caram_head:transform1
+    2300150: caram_head:transform2
+    2300152: caram_head:transform3
+    2300154: caram_head:transform4
+    2300156: caram_head:transform5
+    2300158: caram_head:transform6
+    2300160: caram_head:transform7
+    2300162: caram_head:transform8
+    3300000: caram_head:jade_body:hand:transform1
+    3300002: caram_head:jade_body:hand:transform2
+    3300004: caram_head:jade_body:hand:transform3
+    3300006: caram_head:jade_body:hand:transform4
+    3300008: caram_head:jade_body:hand:transform5
+    3300010: caram_head:jade_body:jade_head_2_1:pSphere2
+    3300012: caram_head:jade_body:jade_head_2_1:transform1
+    3300014: caram_head:jade_body:jade_head_2_1:transform2
+    3300016: caram_head:jade_body:jade_head_2_1:transform3
+    3300018: caram_head:jade_body:jade_head_2_1:transform4
+    3300020: caram_head:jade_body:jade_head_2_1:transform5
+    3300022: caram_head:jade_body:jade_head_2_1:transform6
+    3300024: caram_head:jade_body:jade_head_2_1:transform7
+    3300026: caram_head:jade_body:jade_head_2_1:transform8
+    3300028: caram_head:jade_body:pCube2
+    3300030: caram_head:jade_body:transform1
+    3300032: caram_head:jade_body:transform10
+    3300034: caram_head:jade_body:transform11
+    3300036: caram_head:jade_body:transform2
+    3300038: caram_head:jade_body:transform3
+    3300040: caram_head:jade_body:transform4
+    3300042: caram_head:jade_body:transform5
+    3300044: caram_head:jade_body:transform6
+    3300046: caram_head:jade_body:transform7
+    3300048: caram_head:jade_body:transform8
+    3300050: caram_head:jade_body:transform9
+    3300052: caram_head:npcgirl_full:jade_body:hand:transform1
+    3300054: caram_head:npcgirl_full:jade_body:hand:transform2
+    3300056: caram_head:npcgirl_full:jade_body:hand:transform3
+    3300058: caram_head:npcgirl_full:jade_body:hand:transform4
+    3300060: caram_head:npcgirl_full:jade_body:hand:transform5
+    3300062: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere2
+    3300064: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform1
+    3300066: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform2
+    3300068: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform3
+    3300070: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform4
+    3300072: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform5
+    3300074: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform6
+    3300076: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform7
+    3300078: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform8
+    3300080: caram_head:npcgirl_full:jade_body:pCube2
+    3300082: caram_head:npcgirl_full:jade_body:transform1
+    3300084: caram_head:npcgirl_full:jade_body:transform10
+    3300086: caram_head:npcgirl_full:jade_body:transform11
+    3300088: caram_head:npcgirl_full:jade_body:transform2
+    3300090: caram_head:npcgirl_full:jade_body:transform3
+    3300092: caram_head:npcgirl_full:jade_body:transform4
+    3300094: caram_head:npcgirl_full:jade_body:transform5
+    3300096: caram_head:npcgirl_full:jade_body:transform6
+    3300098: caram_head:npcgirl_full:jade_body:transform7
+    3300100: caram_head:npcgirl_full:jade_body:transform8
+    3300102: caram_head:npcgirl_full:jade_body:transform9
+    3300104: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere2
+    3300106: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform1
+    3300108: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform2
+    3300110: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform3
+    3300112: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform4
+    3300114: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform5
+    3300116: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform6
+    3300118: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform7
+    3300120: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform8
+    3300122: caram_head:npcgirl_full:npcgirl_head:transform1
+    3300124: caram_head:npcgirl_full:npcgirl_head:transform2
+    3300126: caram_head:npcgirl_full:npcgirl_head:transform3
+    3300128: caram_head:npcgirl_full:npcgirl_head:transform4
+    3300130: caram_head:npcgirl_full:npcgirl_head:transform5
+    3300132: caram_head:npcgirl_full:npcgirl_head:transform6
+    3300134: caram_head:npcgirl_full:transform1
+    3300136: caram_head:npcgirl_full:transform2
+    3300138: caram_head:npcgirl_full:transform3
+    3300140: caram_head:npcgirl_full:transform4
+    3300142: caram_head:npcgirl_full:transform5
+    3300144: caram_head:npcgirl_full:transform6
+    3300146: caram_head:pCube3
+    3300148: caram_head:transform1
+    3300150: caram_head:transform2
+    3300152: caram_head:transform3
+    3300154: caram_head:transform4
+    3300156: caram_head:transform5
+    3300158: caram_head:transform6
+    3300160: caram_head:transform7
+    3300162: caram_head:transform8
+    4300000: caram_head:transform3
+    4300002: caram_head:transform2
+    4300004: caram_head:pCube3
+    4300006: caram_head:jade_body:transform1
+    4300008: caram_head:jade_body:pCube2
+    4300010: caram_head:jade_body:hand:transform5
+    4300012: caram_head:jade_body:hand:transform4
+    4300014: caram_head:jade_body:hand:transform3
+    4300016: caram_head:jade_body:hand:transform2
+    4300018: caram_head:jade_body:hand:transform1
+    4300020: caram_head:jade_body:transform2
+    4300022: caram_head:jade_body:transform4
+    4300024: caram_head:jade_body:transform3
+    4300026: caram_head:jade_body:transform11
+    4300028: caram_head:jade_body:transform10
+    4300030: caram_head:jade_body:transform9
+    4300032: caram_head:jade_body:jade_head_2_1:transform2
+    4300034: caram_head:jade_body:jade_head_2_1:transform1
+    4300036: caram_head:jade_body:jade_head_2_1:transform4
+    4300038: caram_head:jade_body:jade_head_2_1:transform3
+    4300040: caram_head:jade_body:jade_head_2_1:pSphere2
+    4300042: caram_head:jade_body:jade_head_2_1:transform6
+    4300044: caram_head:jade_body:jade_head_2_1:transform5
+    4300046: caram_head:jade_body:transform8
+    4300048: caram_head:jade_body:transform7
+    4300050: caram_head:jade_body:transform6
+    4300052: caram_head:jade_body:jade_head_2_1:transform7
+    4300054: caram_head:jade_body:jade_head_2_1:transform8
+    4300056: caram_head:jade_body:transform5
+    4300058: caram_head:transform1
+    4300060: caram_head:transform4
+    4300062: caram_head:transform6
+    4300064: caram_head:transform5
+    4300066: caram_head:transform7
+    4300068: caram_head:transform8
+    4300070: caram_head:npcgirl_full:jade_body:transform1
+    4300072: caram_head:npcgirl_full:jade_body:pCube2
+    4300074: caram_head:npcgirl_full:jade_body:hand:transform5
+    4300076: caram_head:npcgirl_full:jade_body:hand:transform4
+    4300078: caram_head:npcgirl_full:jade_body:hand:transform3
+    4300080: caram_head:npcgirl_full:jade_body:hand:transform2
+    4300082: caram_head:npcgirl_full:jade_body:hand:transform1
+    4300084: caram_head:npcgirl_full:jade_body:transform2
+    4300086: caram_head:npcgirl_full:jade_body:transform4
+    4300088: caram_head:npcgirl_full:jade_body:transform3
+    4300090: caram_head:npcgirl_full:jade_body:transform11
+    4300092: caram_head:npcgirl_full:jade_body:transform10
+    4300094: caram_head:npcgirl_full:jade_body:transform9
+    4300096: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform2
+    4300098: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform1
+    4300100: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform4
+    4300102: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform3
+    4300104: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere2
+    4300106: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform6
+    4300108: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform5
+    4300110: caram_head:npcgirl_full:jade_body:transform8
+    4300112: caram_head:npcgirl_full:jade_body:transform7
+    4300114: caram_head:npcgirl_full:jade_body:transform6
+    4300116: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform7
+    4300118: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform8
+    4300120: caram_head:npcgirl_full:jade_body:transform5
+    4300122: caram_head:npcgirl_full:transform2
+    4300124: caram_head:npcgirl_full:npcgirl_head:transform2
+    4300126: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform2
+    4300128: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform1
+    4300130: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform4
+    4300132: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform3
+    4300134: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere2
+    4300136: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform6
+    4300138: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform5
+    4300140: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform7
+    4300142: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform8
+    4300144: caram_head:npcgirl_full:npcgirl_head:transform5
+    4300146: caram_head:npcgirl_full:npcgirl_head:transform1
+    4300148: caram_head:npcgirl_full:npcgirl_head:transform4
+    4300150: caram_head:npcgirl_full:npcgirl_head:transform3
+    4300152: caram_head:npcgirl_full:transform5
+    4300154: caram_head:npcgirl_full:npcgirl_head:transform6
+    4300156: caram_head:npcgirl_full:transform1
+    4300158: caram_head:npcgirl_full:transform4
+    4300160: caram_head:npcgirl_full:transform3
+    4300162: caram_head:npcgirl_full:transform6
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: caram_head:npcgirl_full:jade_body:hand:group2
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: caram_head:npcgirl_full:jade_body:hand:pasted__pCube2
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: macarena_dance(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:group
+      position: {x: -.00861118641, y: .00855719764, z: .0100446688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:group1
+      position: {x: -.00861118641, y: .00855719764, z: .0100446688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:pasted__group
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:group2
+      position: {x: -.0106027378, y: .0525598265, z: .00981140509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:pasted__pCube2
+      position: {x: -.000361136714, y: -.00134226377, z: -.0184634924}
+      rotation: {x: -.0382898599, y: -.000576152932, z: -.0012033073, w: .99926579}
+      scale: {x: .916223884, y: .939937651, z: .765832305}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:group3
+      position: {x: -.0106027378, y: .0525598265, z: .00981140509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:pasted__pCube21
+      position: {x: -.000359367841, y: -.00587076275, z: -.0262114033}
+      rotation: {x: -.0848391801, y: -.00127658714, z: -.00266617863, w: .996390283}
+      scale: {x: .916223884, y: .699646533, z: .690746307}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:group4
+      position: {x: -.0106027378, y: .0525598265, z: .00981140509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:pasted__pCube22
+      position: {x: -.000359130965, y: -.00101131119, z: .0011133682}
+      rotation: {x: .0605937317, y: .000911762414, z: .00190423476, w: .998160303}
+      scale: {x: .916223884, y: 1, z: .805211902}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:pCube1
+      position: {x: -.0113373268, y: .0176988244, z: -.0027386758}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .860654771, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:pCube2
+      position: {x: -.0109640453, y: .0545962378, z: .00144262565}
+      rotation: {x: .0200211927, y: .000301261694, z: .000629191345, w: .999799311}
+      scale: {x: .916223824, y: 1.14462698, z: .850758612}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:hand:polySurface1
+      position: {x: -.0867006853, y: .19448407, z: -.00204127538}
+      rotation: {x: 0, y: 0, z: .707106829, w: .707106829}
+      scale: {x: .853584766, y: .853584766, z: .853584766}
+      transformModified: 1
+    - name: caram_head:jade_body:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:group
+      position: {x: -.019747192, y: .0421930403, z: .0351179913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pCube1
+      position: {x: .00159738446, y: .0325587802, z: -.00156432611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pCube2
+      position: {x: -.00145080953, y: .0325587802, z: -.00156432611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:polySurface3
+      position: {x: .000909972528, y: 0, z: -1.11439504e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:polySurface4
+      position: {x: 0, y: .200924069, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:polySurface5
+      position: {x: -4.60743104e-05, y: .200924069, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pPlane1
+      position: {x: -.0175742153, y: .268755078, z: .0442850813}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pPlane2
+      position: {x: .0298022814, y: .276157498, z: .049683325}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pPlane3
+      position: {x: -.0625868142, y: .0897208378, z: -.00350426068}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pPlane4
+      position: {x: .0638926327, y: .0897208378, z: -.00350426068}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pSphere1
+      position: {x: -.0112028206, y: .0421785042, z: .0177993607}
+      rotation: {x: .702670574, y: -.131338716, z: .148229286, w: .683397591}
+      scale: {x: 1.29972494, y: 1.29972506, z: 1.29972494}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:jade_head_2_1:pSphere2
+      position: {x: -.0112028206, y: .0421785042, z: .0177993607}
+      rotation: {x: .702670574, y: -.131338716, z: .148229286, w: .683397591}
+      scale: {x: -1.29972494, y: 1.29972506, z: 1.29972494}
+      transformModified: 1
+    - name: caram_head:jade_body:pCube1
+      position: {x: .00132349343, y: .164284393, z: .0131233139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .811712921, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:pCube2
+      position: {x: .00114526716, y: .164284393, z: .0131233139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -.811712921, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:polySurface2
+      position: {x: .00291190506, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:polySurface3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform11
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:polySurface4
+      position: {x: -.0711090714, y: -.11217612, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:pPlane1
+      position: {x: .00455970084, y: .103388488, z: .0259315576}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform10
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:pPlane2
+      position: {x: -.0200468898, y: .12503463, z: .0309553072}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:jade_body:transform9
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:group
+      position: {x: -.00861118641, y: .00855719764, z: .0100446688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:group1
+      position: {x: -.00861118641, y: .00855719764, z: .0100446688}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:pasted__group
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:group2
+      position: {x: -.0106027378, y: .0525598265, z: .00981140509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:pasted__pCube2
+      position: {x: -.000361136714, y: -.00134226377, z: -.0184634924}
+      rotation: {x: -.0382898599, y: -.000576152932, z: -.0012033073, w: .99926579}
+      scale: {x: .916223884, y: .939937651, z: .765832305}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:group3
+      position: {x: -.0106027378, y: .0525598265, z: .00981140509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:pasted__pCube21
+      position: {x: -.000359367841, y: -.00587076275, z: -.0262114033}
+      rotation: {x: -.0848391801, y: -.00127658714, z: -.00266617863, w: .996390283}
+      scale: {x: .916223884, y: .699646533, z: .690746307}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:group4
+      position: {x: -.0106027378, y: .0525598265, z: .00981140509}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:pasted__pCube22
+      position: {x: -.000359130965, y: -.00101131119, z: .0011133682}
+      rotation: {x: .0605937317, y: .000911762414, z: .00190423476, w: .998160303}
+      scale: {x: .916223884, y: 1, z: .805211902}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:pCube1
+      position: {x: -.0113373268, y: .0176988244, z: -.0027386758}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .860654771, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:pCube2
+      position: {x: -.0109640453, y: .0545962378, z: .00144262565}
+      rotation: {x: .0200211927, y: .000301261694, z: .000629191345, w: .999799311}
+      scale: {x: .916223824, y: 1.14462698, z: .850758612}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:hand:polySurface1
+      position: {x: -.0867006853, y: .19448407, z: -.00204127538}
+      rotation: {x: 0, y: 0, z: .707106829, w: .707106829}
+      scale: {x: .853584766, y: .853584766, z: .853584766}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:group
+      position: {x: -.019747192, y: .0421930403, z: .0351179913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pCube1
+      position: {x: .00159738446, y: .0325587802, z: -.00156432611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pCube2
+      position: {x: -.00145080953, y: .0325587802, z: -.00156432611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface3
+      position: {x: .000909972528, y: 0, z: -1.11439504e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface4
+      position: {x: 0, y: .200924069, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:polySurface5
+      position: {x: -4.60743104e-05, y: .200924069, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane1
+      position: {x: -.0175742153, y: .268755078, z: .0442850813}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane2
+      position: {x: .0298022814, y: .276157498, z: .049683325}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane3
+      position: {x: -.0625868142, y: .0897208378, z: -.00350426068}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pPlane4
+      position: {x: .0638926327, y: .0897208378, z: -.00350426068}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere1
+      position: {x: -.0112028206, y: .0421785042, z: .0177993607}
+      rotation: {x: .702670574, y: -.131338716, z: .148229286, w: .683397591}
+      scale: {x: 1.29972494, y: 1.29972506, z: 1.29972494}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:jade_head_2_1:pSphere2
+      position: {x: -.0112028206, y: .0421785042, z: .0177993607}
+      rotation: {x: .702670574, y: -.131338716, z: .148229286, w: .683397591}
+      scale: {x: -1.29972494, y: 1.29972506, z: 1.29972494}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:pCube1
+      position: {x: .00132349343, y: .164284393, z: .0131233139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: .811712921, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:pCube2
+      position: {x: .00114526716, y: .164284393, z: .0131233139}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -.811712921, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:polySurface2
+      position: {x: .00291190506, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:polySurface3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform11
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:polySurface4
+      position: {x: .0047536809, y: -.00598818669, z: -.00564423017}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:pPlane1
+      position: {x: .00455970084, y: .103388488, z: .0259315576}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform10
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:pPlane2
+      position: {x: -.0200468898, y: .12503463, z: .0309553072}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:jade_body:transform9
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:group
+      position: {x: -.019747192, y: .0421930403, z: .0351179913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pCube1
+      position: {x: .00159738446, y: .0325587802, z: -.00156432611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pCube2
+      position: {x: -.00145080953, y: .0325587802, z: -.00156432611}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface3
+      position: {x: .000909972528, y: 0, z: -1.11439504e-19}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:polySurface5
+      position: {x: -.0016695516, y: .190112382, z: .00858509913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pPlane3
+      position: {x: -.0625868142, y: .0897208378, z: -.00350426068}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pPlane4
+      position: {x: .0638926327, y: .0897208378, z: -.00350426068}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere1
+      position: {x: -.0112028206, y: .0421785042, z: .0177993607}
+      rotation: {x: .702670574, y: -.131338716, z: .148229286, w: .683397591}
+      scale: {x: 1.29972494, y: 1.29972506, z: 1.29972494}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:jade_head_2_1:pSphere2
+      position: {x: -.0112028206, y: .0421785042, z: .0177993607}
+      rotation: {x: .702670574, y: -.131338716, z: .148229286, w: .683397591}
+      scale: {x: -1.29972494, y: 1.29972506, z: 1.29972494}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:pCube1
+      position: {x: 4.86516292e-05, y: .230119944, z: -.00183925428}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -7.88810968, y: -7.88810968, z: -7.88810968}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:pCube2
+      position: {x: -.000228202276, y: .148782134, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -7.02786255, y: -7.02786255, z: -7.02786255}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:polySurface3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:polySurface4
+      position: {x: .00346152578, y: .190112382, z: .00858509913}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:pSphere1
+      position: {x: -.0116524976, y: .230791166, z: .0135614621}
+      rotation: {x: .675434351, y: -.147528186, z: .13246347, w: .710265636}
+      scale: {x: 2.2491889, y: 2.24918914, z: 2.24918914}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:npcgirl_head:transform1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:polySurface1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:polySurface3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:npcgirl_full:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:pCube1
+      position: {x: .00194906618, y: .211497173, z: .00682043377}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.8452667, y: 1.8452667, z: 1.8452667}
+      transformModified: 1
+    - name: caram_head:transform3
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:pCube2
+      position: {x: -.000632587937, y: .069048807, z: .0120459367}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -3.74615574, y: -3.74615574, z: -3.74615574}
+      transformModified: 1
+    - name: caram_head:transform2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:pCube3
+      position: {x: -.000632587937, y: .069048807, z: .0120459367}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 3.74615574, y: -3.74615574, z: -3.74615574}
+      transformModified: 1
+    - name: caram_head:polySurface1
+      position: {x: .000547623611, y: .00109518599, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.8160466, y: 1.8160466, z: 1.8160466}
+      transformModified: 1
+    - name: caram_head:transform4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:polySurface2
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:transform6
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:polySurface3
+      position: {x: -.000382236991, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:transform5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:polySurface4
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:transform7
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:polySurface5
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: -1, y: 1, z: 1}
+      transformModified: 1
+    - name: caram_head:transform8
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:Hips
+      position: {x: -.000306158065, y: .0988654047, z: .01687943}
+      rotation: {x: -.00339864613, y: .146565393, z: -.0100464793, w: .989144146}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftUpLeg
+      position: {x: -.0190600436, y: -.00774296746, z: .0012529575}
+      rotation: {x: -.0231606364, y: .0258719604, z: .998772264, w: .0353294723}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftLeg
+      position: {x: -3.54660676e-11, y: .0475465581, z: -1.79947255e-11}
+      rotation: {x: -.413834125, y: .0401937924, z: -.0412711427, w: .908527672}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftFoot
+      position: {x: 7.45240761e-12, y: .035403274, z: -8.3039747e-12}
+      rotation: {x: .724294841, y: .0872311816, z: .0934498087, w: .677535892}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftToeBase
+      position: {x: -6.54349882e-12, y: .00935301837, z: -3.35426714e-10}
+      rotation: {x: .273334891, y: -.000691692112, z: .000196519541, w: .961918712}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftToe_End
+      position: {x: -4.78205453e-12, y: .00534236757, z: -7.74220098e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightUpLeg
+      position: {x: .0190600436, y: -.00774296746, z: .00131745695}
+      rotation: {x: .0321586058, y: .0782505646, z: .990993917, w: -.103796601}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightLeg
+      position: {x: -1.86167748e-11, y: .0475446917, z: 3.04507253e-11}
+      rotation: {x: -.464174986, y: .00712220185, z: .0492977053, w: .884341896}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightFoot
+      position: {x: -3.31338494e-12, y: .0354017913, z: 7.99699369e-12}
+      rotation: {x: .738805294, y: -.0315507017, z: -.113906667, w: .663473129}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightToeBase
+      position: {x: 1.33319527e-11, y: .00945530646, z: -2.05339565e-10}
+      rotation: {x: .274813503, y: .00268841954, z: -.00057931483, w: .961493611}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightToe_End
+      position: {x: -2.04080832e-11, y: .0052941977, z: 1.3971052e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:Spine
+      position: {x: -0, y: .0139402105, z: .000195702305}
+      rotation: {x: -.000212551517, y: -.0164149906, z: .0309497844, w: .999386132}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:Spine1
+      position: {x: -0, y: .0162651725, z: 6.56061848e-13}
+      rotation: {x: .0441045463, y: -.00438683247, z: .00621892, w: .998997927}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:Spine2
+      position: {x: -0, y: .018588772, z: -5.69972498e-12}
+      rotation: {x: .0441263691, y: -.00456698425, z: .0059375558, w: .998997867}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftShoulder
+      position: {x: -.0115505904, y: .0191558301, z: -5.33195162e-05}
+      rotation: {x: .502795219, y: -.501535594, z: .455348939, w: .536951005}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftArm
+      position: {x: 4.93962857e-12, y: .0235372745, z: 7.90162241e-11}
+      rotation: {x: .442862898, y: -.60686928, z: .0476115569, w: .658266842}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftForeArm
+      position: {x: -1.01829657e-14, y: .0213011019, z: -1.15079144e-11}
+      rotation: {x: -.0372443199, y: .0116780121, z: -.808677077, w: .586956561}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHand
+      position: {x: 9.19786903e-12, y: .0288060475, z: -3.00768299e-11}
+      rotation: {x: -.406065732, y: -.0296468139, z: .0629672781, w: .911189795}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandIndex1
+      position: {x: .00765296957, y: .0142769283, z: -.000266828516}
+      rotation: {x: -.0316658951, y: -.000455736328, z: -.088404052, w: .99558115}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandIndex2
+      position: {x: -1.75796449e-05, y: .00862845872, z: -3.62008722e-11}
+      rotation: {x: .122633621, y: .000129275912, z: .000643151056, w: .992451787}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandIndex3
+      position: {x: 1.72644525e-06, y: .00790832937, z: -1.61429984e-11}
+      rotation: {x: .0811654702, y: -3.28466631e-05, z: -.000514438434, w: .996700525}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandIndex4
+      position: {x: 1.58530765e-05, y: .00639040256, z: 2.46079771e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandMiddle1
+      position: {x: .00274136337, y: .0154752666, z: -.000456808804}
+      rotation: {x: -.0253821649, y: .00298070814, z: -.0880552307, w: .99578768}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandMiddle2
+      position: {x: -8.21302183e-06, y: .00869611744, z: -3.29861659e-11}
+      rotation: {x: .103438847, y: 9.93139547e-05, z: .000475498557, w: .994635701}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandMiddle3
+      position: {x: 5.52660413e-06, y: .00892284978, z: -5.87814216e-12}
+      rotation: {x: .135650337, y: 8.8889974e-05, z: .00046099702, w: .990756691}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandMiddle4
+      position: {x: 2.6864036e-06, y: .00697476743, z: -9.20120837e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandPinky1
+      position: {x: -.00751678972, y: .0153360637, z: 6.74680166e-07}
+      rotation: {x: -.0115868673, y: .00954951998, z: -.0897053629, w: .995855153}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandPinky2
+      position: {x: -2.97487968e-05, y: .00715993252, z: -8.26042498e-11}
+      rotation: {x: .0994753167, y: .000460660289, z: .00271485862, w: .995036244}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandPinky3
+      position: {x: -3.43344368e-06, y: .00566896377, z: -2.84767761e-12}
+      rotation: {x: .183605105, y: -.000861789274, z: .00847921893, w: .982963145}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandPinky4
+      position: {x: 3.3182092e-05, y: .0042982921, z: -1.03433491e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandRing1
+      position: {x: -.00287754391, y: .0163489636, z: -.00111034082}
+      rotation: {x: -.0174599197, y: .00975392852, z: -.089918755, w: .995748281}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandRing2
+      position: {x: -3.56402852e-05, y: .00799009018, z: -1.47835091e-10}
+      rotation: {x: .134863853, y: .00025541475, z: .00613339432, w: .990845144}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandRing3
+      position: {x: 2.07125013e-05, y: .0072199367, z: 4.86555136e-11}
+      rotation: {x: .141665906, y: -.000358436344, z: .00253443606, w: .989911199}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandRing4
+      position: {x: 1.49277257e-05, y: .0059211473, z: 1.59750251e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandThumb1
+      position: {x: .00592338387, y: .00480075041, z: .000594047073}
+      rotation: {x: .0344443917, y: -.0183368418, z: -.469561815, w: .882036924}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandThumb2
+      position: {x: -.000540319772, y: .00609421823, z: 3.91569416e-12}
+      rotation: {x: -.0321715325, y: -8.92939403e-19, z: 2.77412091e-17, w: .999482393}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandThumb3
+      position: {x: .00105809094, y: .00784971658, z: -9.5021057e-12}
+      rotation: {x: -.033597894, y: 1.36596491e-18, z: -2.77253372e-17, w: .999435484}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:LeftHandThumb4
+      position: {x: -.000517772278, y: .00668451469, z: -4.52935459e-13}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:Neck
+      position: {x: -0, y: .0209123697, z: 1.30109301e-09}
+      rotation: {x: -.0215304252, y: -.0147900125, z: -.00433644466, w: .999649405}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:Head
+      position: {x: -0, y: .01168436, z: -.00144965644}
+      rotation: {x: -.206721082, y: .0112868957, z: .0375732817, w: .977613091}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:HeadTop_End
+      position: {x: -0, y: .117270067, z: -.0145494705}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightShoulder
+      position: {x: .0115505904, y: .0191580188, z: .000102612328}
+      rotation: {x: .569464803, y: .436738968, z: -.50629735, w: .478154659}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightArm
+      position: {x: -2.48487884e-12, y: .0235372745, z: 7.90456381e-11}
+      rotation: {x: .358220905, y: .484588474, z: -.325723916, w: .728529871}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightForeArm
+      position: {x: 5.23862074e-12, y: .0213064551, z: -2.53617214e-11}
+      rotation: {x: -.0371015966, y: -.0129369413, z: .889613986, w: .455019891}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHand
+      position: {x: -9.32374187e-13, y: .0288056396, z: -7.3186613e-12}
+      rotation: {x: -.00243417406, y: .207896739, z: -.139787614, w: .9681077}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandIndex1
+      position: {x: -.00795327779, y: .0155635532, z: .000229974161}
+      rotation: {x: -.0141836675, y: -.00135676214, z: .0926460177, w: .995597184}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandIndex2
+      position: {x: -7.01345334e-06, y: .00814190228, z: -5.49743367e-12}
+      rotation: {x: .0277495869, y: 6.02182772e-05, z: -.000396335701, w: .999614835}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandIndex3
+      position: {x: -1.52221564e-05, y: .00778753264, z: -5.88805437e-12}
+      rotation: {x: .0806610584, y: -6.13204029e-05, z: .00187791104, w: .996739864}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandIndex4
+      position: {x: 2.2235452e-05, y: .00595792569, z: -6.41748668e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandMiddle1
+      position: {x: -.00295611029, y: .0156475976, z: -.00104985223}
+      rotation: {x: -.00323462836, y: -.0026012559, z: .0951366946, w: .995455623}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandMiddle2
+      position: {x: 3.89656489e-05, y: .0091334153, z: -5.52820359e-11}
+      rotation: {x: .0246096477, y: -.000284139503, z: -.000774699787, w: .999696791}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandMiddle3
+      position: {x: 1.11539184e-05, y: .00893539004, z: 7.66338121e-12}
+      rotation: {x: .105175771, y: .000540140492, z: -.0063343728, w: .994433343}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandMiddle4
+      position: {x: -5.01195791e-05, y: .00722197862, z: 1.03316217e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandPinky1
+      position: {x: .00781306159, y: .0165098403, z: 9.28852678e-05}
+      rotation: {x: .0219500344, y: -.00437313225, z: .0938973054, w: .995330274}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandPinky2
+      position: {x: 1.61235239e-05, y: .00640533213, z: -1.37491433e-11}
+      rotation: {x: .0884431973, y: 3.7035752e-05, z: -.00450514629, w: .996071041}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandPinky3
+      position: {x: -1.65991787e-05, y: .00568876276, z: -7.68700641e-13}
+      rotation: {x: .126275659, y: .000197920337, z: -.00178034208, w: .991993606}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandPinky4
+      position: {x: 4.75265068e-07, y: .00410190504, z: 5.89455568e-12}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandRing1
+      position: {x: .00309632556, y: .016909752, z: -.000728349434}
+      rotation: {x: .0103160581, y: -.000946520071, z: .0940668583, w: .995512009}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandRing2
+      position: {x: 1.75537916e-05, y: .00755781913, z: -1.47692691e-11}
+      rotation: {x: .0438241623, y: -.000108237, z: -.000880599953, w: .999038875}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandRing3
+      position: {x: -3.50103915e-06, y: .00734184682, z: -2.14718911e-12}
+      rotation: {x: .112430759, y: .000106203755, z: -.00319984183, w: .99365443}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandRing4
+      position: {x: -1.40527363e-05, y: .00609833887, z: -3.8469939e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandThumb1
+      position: {x: -.00629951945, y: .00525395898, z: .00062044285}
+      rotation: {x: .194525242, y: .0422942378, z: .200976327, w: .959155679}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandThumb2
+      position: {x: .000362052699, y: .0065711257, z: 4.06623346e-11}
+      rotation: {x: -.0325073972, y: 1.80452304e-18, z: -5.54818128e-17, w: .999471486}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandThumb3
+      position: {x: -.000748331891, y: .00775371818, z: -2.31826294e-11}
+      rotation: {x: -.00951926876, y: 9.47643701e-20, z: -5.55127659e-17, w: .9999547}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: mixamorig:RightHandThumb4
+      position: {x: .000386280182, y: .00629255176, z: 4.98996226e-11}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
